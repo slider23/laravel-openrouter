@@ -52,7 +52,7 @@ class CostResponseData extends DataTransferObject
      *
      * @var int
      */
-    public int $total_cost;
+    public float $total_cost;
 
     /**
      * Origin of the request
